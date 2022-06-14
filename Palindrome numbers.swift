@@ -3,7 +3,7 @@
 //  
 //
 //  Created by Алексей Чигарских on 14.06.2022.
-//
+//  link: https://leetcode.com/problems/palindrome-number/
 
 //Palindrome numbers
 // input: 14541 output: - true
